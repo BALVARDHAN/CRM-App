@@ -1,3 +1,10 @@
+
+<h2>App Recording</h2>
+
+https://github.com/BALVARDHAN/CRM-App/assets/68677559/f63592fd-04f9-4c38-aae6-b1dfd7cca9ff
+
+
+
 <h2>Clone or Download</h2>
 <code>$ git clone https://github.com/BALVARDHAN/CRM-App.git</code>
 
