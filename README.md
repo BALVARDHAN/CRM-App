@@ -1,6 +1,6 @@
 <h2>Clone or Download</h2>
 <code>$ git clone https://github.com/BALVARDHAN/CRM-App.git</code>
-<p>Navigate to the root folder of app after it is downloaded</p>
+
 <h2>Prerequisites</h2>
 <ul>
   <li>MongoDb</li>
@@ -23,3 +23,14 @@
 <p>2. Run <code>$ npm install</code> to install dependecies</p>
 <p>3. Run <code>$ npm start</code> to start the React app</p>
 <h2>Screenshots of the project</h2>
+
+![Screenshot 2024-06-22 070543](https://github.com/BALVARDHAN/CRM-App/assets/68677559/dbeb6999-752c-425c-8a15-3a50a47aceb2)
+
+<b>After Form Submission</b>
+
+![Screenshot 2024-06-22 070621](https://github.com/BALVARDHAN/CRM-App/assets/68677559/6acb5faf-f492-4a0c-92e3-baf1b08205e2)
+
+<b>After Push to CRM</b>
+
+![Screenshot 2024-06-22 070659](https://github.com/BALVARDHAN/CRM-App/assets/68677559/bcf6a902-76cc-4487-87e7-2daa5664d035)
+
